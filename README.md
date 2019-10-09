@@ -1,3 +1,3 @@
 # GAMES
 
-A game in C language.
+A basic snake game in C language.
